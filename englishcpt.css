@@ -22,7 +22,7 @@ h3{
     letter-spacing: 2px;
     color: white;
     margin-left: 80px;
-    margin-bottom:-15px;
+    margin-bottom:-7px;
 }
 
 p{
@@ -30,7 +30,8 @@ p{
     font-size: 25px;
     letter-spacing: 2px;
     color: white;
-    margin-left: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .video-container{
